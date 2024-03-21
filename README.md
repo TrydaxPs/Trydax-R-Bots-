@@ -9,6 +9,7 @@ Español 🇪🇸
 - La mayoria de estos bots fueron creados por el lenguaje de "Python" y otros con el lenguaje de "Javascript", por lo que deben instalar python o node
 - Les recomiendo que instalen visual studio code, porque en replit desde hace tiempo parcheo a los bots raiders haciendolos mas lentos y si lo quieren hostear es bajo su responsabilidad.
 - Todos los archivos possen de una contraseña, la contraseña es: "Trydax"
+
 English 🇺🇸
 - All my raid bots made in my life, from the bots made towards the discord group called "Cactus Empire" to the bots made by my old squad group "Elementals"
 - There are also some raiding tools that do not belong to me, but that I used and that still work
